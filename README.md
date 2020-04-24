@@ -1,0 +1,9 @@
+# 環境変数
+
+```
+MONGODB_OCP_ADDER = ""
+MONGODB_OCP_NAME = ""
+MONGODB_OCP_COLL = ""
+MONGODB_OCP_USER = ""
+MONGODB_OCP_PWD = ""
+```
